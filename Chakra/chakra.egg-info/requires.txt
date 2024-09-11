@@ -1,0 +1,4 @@
+protobuf==4.*
+graphviz
+networkx
+pydot
